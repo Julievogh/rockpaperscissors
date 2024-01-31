@@ -51,6 +51,11 @@ h1 {
   animation: shake 1.8s ease-in 1 forwards;
 }
 
+
+
+
+
+
 @keyframes shake {
   0% {
     transform: scale(var(--rot),1) translateX(calc((var(--rot) - 1) * 50%)) rotate(0deg);
